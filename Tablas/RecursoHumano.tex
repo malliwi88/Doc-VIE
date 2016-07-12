@@ -1,0 +1,39 @@
+\begin{table}[H]
+	\begin{center}
+
+  	\resizebox{\linewidth}{!}{
+
+    %http://tex.stackexchange.com/questions/31672/column-and-row-padding-in-tables
+    \setlength{\tabcolsep}{0.3cm}
+    %\setlength{\tabcolsep}{0.5em} % for the horizontal padding
+        {\renewcommand{\arraystretch}{1.2}% for the vertical padding
+        
+			\begin{tabular}{p{4.5cm}p{2.5cm}p{2.5cm}p{2.2cm}p{1.7cm}p{3cm}p{3cm}}
+			 \hline
+			 \multicolumn{7}{c}{\multirow{3}{*}{\textbf{Recurso Humano}}} \\
+			  {} & & & & & & \\
+			  {} & & & & & & \\
+			 \hline
+                \textbf{Nombres y Apellidos} & \textbf{Nivel de Formación} & 
+                \textbf{Función} & \textbf{Horas por semana} &
+                \textbf{Valor Hora} & \textbf{Dedicación {[}semanas{]}} &
+                \textbf{SUBTOTAL {[}\${]}}\\
+
+            \hline
+                Gabriel Pedraza* 				& Ing., PhD & Director 	   	& 2 & \$ 204.000 & 32 & \$ 13.056.000 \\
+                Raúl Ramos Pollán** 			& Ing., PhD & Codirector 	& 2 & \$ 167.000 & 32 & \$ 10.688.000 \\
+                William Javier Trigos Guevara 	& Est. Ing. & Investigador 	& 30 & \$ 13.655 & 32 & \$ 13.108.855 \\
+             \hline
+                \multicolumn{5}{l}{*Costo x hora semanal de dirección} & 
+                \multicolumn{1}{c}{\multirow{3}{*}{\textbf{TOTAL}}} & 
+                \multicolumn{1}{c}{\multirow{3}{*}{\$ 36.852.855}} \\
+                \multicolumn{5}{l}{** Costo x hora semanal de Co-dirección} & &  \\
+                \multicolumn{5}{l}{*** Valor de financiación mensual (Según crédito condonable, 2 SMMLV)} & &  \\
+                \hline
+            \end{tabular}%
+        }
+	}
+	\end{center}
+	\caption{Recurso humano involucrado en el proyecto}
+	\label{Tabla2}
+\end{table}

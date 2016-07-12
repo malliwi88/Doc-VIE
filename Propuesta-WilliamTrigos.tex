@@ -1,0 +1,229 @@
+\documentclass[12pt,spanish,letterpaper]{report}
+\usepackage[spanish]{babel}
+%https://ddcampayo.wordpress.com/2009/05/19/acentos-latin1-utf-8-latex/
+%\usepackage[utf8x]{inputenc}
+\usepackage[utf8]{inputenc}
+
+%http://tex.stackexchange.com/questions/53470/coding-an-equation-with-description
+% Descripción de las formulas
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{enumitem}
+
+%\usepackage[total={15.5cm,22cm}, top=3cm, left=4cm]{geometry}
+
+\usepackage[total={15.5cm,22cm}, top=2.5cm, bottom=2cm, left=3cm, right=2cm]{geometry}
+\parindent = 0mm
+\renewcommand{\baselinestretch}{1.1} % espaciado 1.1
+
+
+\usepackage{multirow}
+\usepackage{multicol}
+\usepackage[table,xcdraw]{xcolor}
+\usepackage{fancybox}
+\usepackage{url}
+\usepackage{xcolor}
+%\usepackage{latexsym,amsmath,amssymb,amsfonts}
+\usepackage[breaklinks,colorlinks=true,linkcolor=black, urlcolor=blue, citecolor=gray]{hyperref}
+
+
+\usepackage{booktabs}
+\usepackage{multirow}
+%\usepackage[table,xcdraw]{xcolor}
+%http://minisconlatex.blogspot.com.co/2012/01/mas-sobre-tablas-2.html
+\usepackage{float} % para usar [H]
+
+% Revisar como modificar los codigos fuente
+%http://stackoverflow.com/questions/741985/latex-source-code-listing-like-in-professional-books
+\usepackage{listings}
+\usepackage{color}
+\definecolor{mygreen}{rgb}{0,0.6,0}
+\definecolor{mygray}{rgb}{0.5,0.5,0.5}
+\definecolor{mymauve}{rgb}{0.58,0,0.82}
+
+
+% para crear bloques de texto flotantes en la pagina
+% http://tex.stackexchange.com/questions/99809/box-or-sidebar-for-additional-text
+\usepackage{wrapfig}
+\usepackage{tcolorbox}
+
+%\newenvironment{WrapText}[1][r]{\wrapfigure{#1}{0.5\textwidth}\tcolorbox}{\endtcolorbox\endwrapfigure}
+\newenvironment{WrapText}[1][r]{\wrapfigure{#1}{\textwidth}\tcolorbox}{\endtcolorbox\endwrapfigure}
+
+% unas cajas mas bonitas (usa boiboites.sty)
+\usepackage{boiboites}
+\usepackage{amsmath}
+
+\newboxedtheorem[boxcolor=orange, background=blue!5, titlebackground=blue!20, titleboxcolor = black]{theo}{Theorem}{anything}
+
+\usepackage[framemethod=tikz]{mdframed}
+\mdfdefinestyle{mystyle}{%
+linecolor=green!70!black,outerlinewidth=1pt,%
+frametitlerule=true,frametitlefont=\sffamily\bfseries\color{white},%
+frametitlerulewidth=1pt,frametitlerulecolor=green!40!black,%
+frametitlebackgroundcolor=green!60!black,
+backgroundcolor=gray!5,
+innertopmargin=\topskip,
+roundcorner=5pt
+}
+\newmdenv[style=mystyle]{exa}
+\newenvironment{example}[1]
+  {\begin{exa}[frametitle=#1]}
+  {\end{exa}}
+  
+
+%\selectlanguage{spanish}
+
+%\hyphenation{ins-tru-men-tos ma-ne-ra va-rie-dad re-po-si-to-rios}
+
+\usepackage{chngcntr}
+\usepackage{graphicx}
+\graphicspath{{Imagenes/}}
+\counterwithout{figure}{chapter}
+\counterwithout{table}{chapter}
+\usepackage[tight,footnotesize]{subfigure}
+
+%http://tex.stackexchange.com/questions/101645/how-to-turn-latex-figure-by-90-degrees-along-with-the-caption
+\usepackage{adjustbox}
+\usepackage{blindtext}
+
+%resaltar texto
+\usepackage{framed}
+\colorlet{shadecolor}{blue!20}
+% http://www.statsblogs.com/2013/05/06/colors-in-latex/
+
+\usepackage{titlesec}
+\newcommand{\hsp}{\hspace{10pt}}
+
+\newcommand{\footcaption}[1]{\caption[#1]{#1\footnotemark.}}
+\setlength\abovecaptionskip{1pt}
+
+\titlespacing*{\chapter}{0pt}{-1cm}{0.5cm}
+\titleformat{\chapter}[hang]{\Large\centering\bfseries}{\thechapter\textcolor{black}{.}\hsp}{0pt}{\Large\centering\bfseries\uppercase}
+\titleformat{\section}{\large\bfseries}{\thesection}{1em}{}
+
+
+\makeatletter
+\renewcommand*\l@section{\@dottedtocline{2}{0em}{3.2em}}
+\renewcommand*\l@subsection{\@dottedtocline{2}{0em}{3.2em}}
+\renewcommand*\l@subsubsection{\@dottedtocline{2}{0em}{3.2em}}
+\newenvironment{CenteredBox}{% 
+\begin{Sbox}}{% Save the content in a box
+\end{Sbox}\centerline{\parbox{\wd\@Sbox}{\TheSbox}}}% And output it centered
+\makeatother
+
+\ifpdf
+\AtBeginDocument{
+  \hypersetup{
+    pdftitle = {\@title},
+%pdftitle = {DRAFT}
+    pdfauthor = {\@author},
+    pdfsubject={\@subject},
+    pdfkeywords={\@keywords}
+  }
+}
+\fi
+
+\AtBeginDocument{
+	\renewcommand{\listfigurename}{LISTA DE FIGURAS}
+	\renewcommand{\listtablename}{LISTA DE TABLAS}
+	\renewcommand{\contentsname}{CONTENIDO}
+	\renewcommand{\figurename}{Figura}
+	\renewcommand\tablename{Tabla}
+	}
+	
+\makeatletter
+\title{Técnica de Posicionamiento GPS apoyado en interacción de dispositivos inmersos en ambientes urbanos.}\let\Titulo\@title
+\author{William Javier Trigos Guevara}          \let\Autor\@author
+\date{\today}           \let\Fecha\@date
+\date{\year}			\let\Ano\@date
+
+
+\usepackage{pdfpages}
+
+
+\makeatother
+
+\begin{document}
+
+%\maketitle
+	% -------------------------------------------------------------------------
+	% Pagina de Portada
+	% -------------------------------------------------------------------------
+	%\input{Capitulos/portada}
+	% -------------------------------------------------------------------------
+	% Pagina de Contraportada
+	% -------------------------------------------------------------------------
+	%\input{Capitulos/contraportada}
+
+	% -------------------------------------------------------------------------
+	% Tabla de Contenido
+	% -------------------------------------------------------------------------
+	%\setcounter{page}{3}	
+	%\tableofcontents
+	%\addtocontents{toc}{~\hfill\textbf{P\'ag.}\par}
+	
+	% -------------------------------------------------------------------------
+	% Lista Figuras
+	% -------------------------------------------------------------------------
+	%\listoffigures
+	
+	% -------------------------------------------------------------------------
+	% Lista de Tablas
+	% -------------------------------------------------------------------------
+	%\listoftables	
+
+	% -------------------------------------------------------------------------
+	% Introduccion
+	% -------------------------------------------------------------------------	
+	%\addcontentsline{toc}{chapter}{Introducci\'on}
+	%\setcounter{page}{13}
+	%\input{Capitulos/introduccion}
+	
+	% -------------------------------------------------------------------------
+	% Objetivos
+	% -------------------------------------------------------------------------	
+	%\addcontentsline{toc}{chapter}{OBJETIVOS}
+	%\addcontentsline{toc}{section}{Objetivo General}
+	%\addcontentsline{toc}{section}{Objetivos Especificos}
+	%\input{Capitulos/objetivos}
+	
+	
+	% -------------------------------------------------------------------------
+	% Capitulos
+	% -------------------------------------------------------------------------
+
+	
+	%\includepdf[pages=-, scale = 0.95]{Carta_EntregaPropuesta.pdf}
+	
+	%\input{Capitulos/caratulaPropuesta}
+	%\clearpage\thispagestyle{empty}\mbox{}\clearpage
+	\input{Capitulos/resumen}
+	
+	%\clearpage\thispagestyle{empty}\mbox{}\clearpage
+	\setcounter{page}{3}
+	\tableofcontents
+	\addtocontents{toc}{~\hfill\textbf{P\'ag.}\par}
+	%\listoffigures
+	%\listoftables
+
+	
+	\input{Capitulos/Contexto}
+	\input{Capitulos/estadodelarte2}
+	\input{Capitulos/objetivos}
+	
+	\input{Capitulos/metodologia}
+	\input{Capitulos/cronograma}
+	\input{Capitulos/presupuesto}
+	\input{Capitulos/ResultadosImpactos}
+
+	
+
+%----------------------------------------------------------------------------------------
+	%	BIBLIOGRAFIA
+	%----------------------------------------------------------------------------------------
+	\renewcommand\bibname{BIBLIOGRAF\'IA}
+	\bibliographystyle{ieeetr}
+	\bibliography{biblio}
+
+\end{document}

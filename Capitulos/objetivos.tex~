@@ -1,0 +1,26 @@
+\chapter{OBJETIVOS} 
+\label{objetivos}
+
+Los objetivos planteados en este apartado tienen como propósito identificar los aspectos que permitan dar respuesta a la pregunta, ¿Cómo influyen las políticas de planificación de tareas, sobre el consumo energético y el rendimiento computacional de una arquitectura embebida orientada al cómputo de alto rendimiento?
+
+\section{\textbf{General}}
+Proponer una arquitectura tipo clúster empleando la plataforma embebida Nvidia JetsonTK1, orientada a la construcción de una política de planificación y ejecución de aplicaciones masivamente paralelas (CPU-GPU), buscando equilibrio entre el consumo energético y rendimiento computacional.
+
+\section{\textbf{Especificos}}
+
+Para llevar a termino(cabo) el cumplimento del objetivo general planteado en este trabajo de investigación, se considera importante el desarrollo de las siguientes actividades:
+
+\begin{itemize}
+
+\item Diseñar una arquitectura tipo clúster, para llevar a cabo el desarrollo de una política de planificación de tareas y asignación de recursos computacionales disponibles sobre la plataforma embebida JetsonTK1.
+
+\item Proponer una política de planificación de tareas y asignación de recursos computacionales, orientada a disminuir el consumo energético y con mínimo impacto posible sobre el rendimiento computacional, para su empleo en clúster de cómputo de alto rendimiento compuestos por plataformas embebidas.
+
+\item Identificar las aplicaciones paralelas que se ajusten a la política de planificación planteada, conforme a las características computacionales de la plataforma embebida JetsonTK1.
+
+\item Evaluar la política de planificación y asignación de recursos sobre arquitectura diseñada y para aplicaciones seleccionadas, para validad su empleo en clúster de cómputo de alto rendimiento compuestos por plataformas embebidas.
+
+\end{itemize}
+
+
+

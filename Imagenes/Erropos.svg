@@ -1,0 +1,560 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+    xmlns:latexdraw="http://latexdraw.sourceforge.net/namespaces/latexdraw"
+    version="1.1" baseProfile="full">
+    <g>
+        <g latexdraw:type="akinPoints" id="id315946602"
+            latexdraw:pathType="CURVES" latexdraw:interval="5" latexdraw:points="472.2222222222223 862.2222222222223 493.33333333333337 858.888888888889 506.66666666666674 851.1111111111112 ">
+            <path d="M 472.2222222222223 862.2222222222223 "
+                stroke-width="10.0" stroke="#0ce619" fill="#010101" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="akinPoints" id="id2095244167"
+            latexdraw:pathType="CURVES" latexdraw:interval="5" latexdraw:points="522.2222222222223 846.6666666666667 488.8888888888889 855.5555555555557 480.00000000000006 857.7777777777778 468.8888888888889 858.888888888889 ">
+            <path d="M 522.2222222222223 846.6666666666667 "
+                stroke-width="10.0" stroke="#0ce619" fill="#010101" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="akinPoints" id="id1064780317"
+            latexdraw:pathType="CURVES" latexdraw:interval="5" latexdraw:points="465.5555555555556 858.888888888889 497.7777777777778 848.888888888889 515.5555555555557 845.5555555555557 534.4444444444445 844.4444444444446 ">
+            <path d="M 465.5555555555556 858.888888888889 "
+                stroke-width="10.0" stroke="#0ce619" fill="#010101" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="akinPoints" id="id1285324096"
+            latexdraw:pathType="CURVES" latexdraw:interval="5" latexdraw:points="538.8888888888889 842.2222222222223 525.5555555555557 853.3333333333334 503.33333333333337 865.5555555555557 490.00000000000006 866.6666666666667 ">
+            <path d="M 538.8888888888889 842.2222222222223 "
+                stroke-width="10.0" stroke="#0ce619" fill="#010101" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="akinPoints" id="id1869197066"
+            latexdraw:pathType="CURVES" latexdraw:interval="5" latexdraw:points="474.4444444444445 862.2222222222223 498.8888888888889 854.4444444444446 524.4444444444445 845.5555555555557 527.7777777777778 844.4444444444446 ">
+            <path d="M 474.4444444444445 862.2222222222223 "
+                stroke-width="10.0" stroke="#0ce619" fill="#010101" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="akinPoints" id="id758379342"
+            latexdraw:pathType="CURVES" latexdraw:interval="5" latexdraw:points="517.7777777777778 847.7777777777778 510.00000000000006 851.1111111111112 485.5555555555556 858.888888888889 466.6666666666667 865.5555555555557 461.11111111111114 867.7777777777778 ">
+            <path d="M 517.7777777777778 847.7777777777778 "
+                stroke-width="10.0" stroke="#0ce619" fill="#010101" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="akinPoints" id="id1053122800"
+            latexdraw:pathType="CURVES" latexdraw:interval="5" latexdraw:points="475.5555555555556 855.5555555555557 494.4444444444445 853.3333333333334 513.3333333333334 846.6666666666667 ">
+            <path d="M 475.5555555555556 855.5555555555557 "
+                stroke-width="10.0" stroke="#0ce619" fill="#010101" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="akinPoints" id="id1503683492"
+            latexdraw:pathType="CURVES" latexdraw:interval="5" latexdraw:points="525.5555555555557 843.3333333333334 520.0 844.4444444444446 483.33333333333337 855.5555555555557 ">
+            <path d="M 525.5555555555557 843.3333333333334 "
+                stroke-width="10.0" stroke="#0ce619" fill="#010101" latexdraw:rotationAngle="0.0"/>
+        </g>
+        <g latexdraw:type="drawing" id="id1682283516">
+            <g latexdraw:type="drawing" id="id1824981108">
+                <g latexdraw:type="circle" id="id329075679" transform="rotate(377.7800063116161) translate(67.03422573398109 -298.4388380951236)">
+                    <circle cx="920.4671266496778"
+                        cy="363.49982325566816" r="43.594594594594696"
+                        latexdraw:borderPos="outer" stroke-width="2.0"
+                        stroke="black" fill="black"/>
+                </g>
+                <g latexdraw:type="drawing" id="id720069777">
+                    <g latexdraw:type="polygon" id="id96869894">
+                        <polygon
+                            points="1004.5832284659183,328.4522421266127 1033.2509524176976,293.2155688743583 1010.3630515383161,270.1234796433763 1005.5740661840952,266.16430211102465 967.3902082255986,288.2516509689338 987.3682808915986,301.5246487667254 "
+                            stroke-width="8.0" stroke="black"
+                            fill="black" latexdraw:rotationAngle="0.12785139785040533"/>
+                    </g>
+                    <g latexdraw:type="circle" id="id1373010538" transform="rotate(377.7800063116161) translate(67.17346846061525 -298.2479586213397)">
+                        <circle cx="919.7873433825036"
+                            cy="363.8494843224254"
+                            r="27.648648648648646"
+                            latexdraw:borderPos="outer"
+                            stroke-width="2.0" stroke="black" fill="#fefefe"/>
+                    </g>
+                    <g latexdraw:type="circle" id="id686559292" transform="rotate(377.7800063116161) translate(65.53852497334219 -299.6873884321276)">
+                        <circle cx="925.2060706535605"
+                            cy="359.3429681872675" r="19.0"
+                            latexdraw:borderPos="outer"
+                            stroke-width="2.0" stroke="black" fill="black"/>
+                    </g>
+                    <g latexdraw:type="ellipse" id="id1498560092" transform="rotate(414.805819114316) translate(-166.772464420495 -937.0824408895727)">
+                        <ellipse cx="987.1815426371263"
+                            cy="307.6928631663269"
+                            rx="28.459459459459083"
+                            ry="11.702702702702595"
+                            latexdraw:borderPos="outer"
+                            stroke-width="22.0" stroke="#fdfbfb" fill="#bc5b5b"/>
+                        <ellipse cx="987.1815426371263"
+                            cy="307.6928631663269"
+                            rx="28.459459459459083"
+                            ry="11.702702702702595" stroke="black"
+                            stroke-width="6.0" fill="none" latexdraw:type="dbleborders"/>
+                    </g>
+                    <g latexdraw:type="polygon" id="id1817257310">
+                        <polygon
+                            points="972.1888320866782,285.50373799209143 899.8603001647842,328.72493820553603 906.7362883018834,332.06523794239195 929.1017693501251,329.58728291191784 951.7690835629468,338.5591989222165 958.675399263224,359.5064968370934 956.7054547575565,381.5809334175939 1004.6574448655233,329.4073560601894 995.4793514949986,319.08462368504166 "
+                            stroke-width="8.0" stroke="black"
+                            fill="black" latexdraw:rotationAngle="0.12785139785040533"/>
+                    </g>
+                    <g latexdraw:type="joinedLines" id="id238421908">
+                        <polyline
+                            points="1006.4929819713897,321.85024508241963 978.5699630603807,286.7838094875886 975.5011689249268,287.50267048744047 "
+                            stroke-width="8.0" stroke="black"
+                            fill="none" latexdraw:rotationAngle="0.12785139785040533"/>
+                    </g>
+                    <g latexdraw:type="joinedLines" id="id1175690142">
+                        <polyline
+                            points="1016.6246632739833,346.5354873404868 957.9346104599317,266.6901901792052 "
+                            stroke-width="8.0" stroke="black" latexdraw:rotationAngle="0.12785139785040533"/>
+                    </g>
+                    <g latexdraw:type="polygon" id="id238790102">
+                        <polygon
+                            points="1002.5121976542524,240.6642547398941 895.2796101280857,306.6824341529473 865.1888775854508,251.9529068002971 984.8415213049932,206.3103296280537 987.0150905776978,207.51962288942798 "
+                            stroke-width="8.0" stroke="black"
+                            fill="url(#pattern238790102)" latexdraw:rotationAngle="0.12785139785040533"/>
+                    </g>
+                    <g latexdraw:type="polygon" id="id1805982362">
+                        <polygon
+                            points="1056.5652128567228,299.8221273489431 967.4070126491494,408.5200632662754 1003.2110310712328,450.2258076181744 1077.1189810989233,329.97787149361244 1077.1189810989233,329.97787149361244 "
+                            stroke-width="8.0" stroke="black"
+                            fill="url(#pattern1805982362)" latexdraw:rotationAngle="0.12785139785040533"/>
+                    </g>
+                    <g latexdraw:type="ellipse" id="id1427225309" transform="rotate(398.49437302095095) translate(-47.7402606110428 -695.679995169874)">
+                        <ellipse cx="1020.088077123572"
+                            cy="279.47565659957013"
+                            rx="19.2692307692314" ry="8.11538461538467"
+                            latexdraw:borderPos="outer"
+                            stroke-width="8.0" stroke="black" fill="black"/>
+                    </g>
+                    <g latexdraw:type="circle" id="id251921546" transform="rotate(377.7800063116161) translate(86.8930374920684 -281.1523771320206)">
+                        <circle cx="855.2801295634064"
+                            cy="418.3369144161179" r="9.333333333333371"
+                            latexdraw:borderPos="outer"
+                            stroke-width="8.0" stroke="black" fill="black"/>
+                    </g>
+                    <g latexdraw:type="joinedLines" id="id1547830697">
+                        <polyline
+                            points="854.4952059614124,418.83531928235374 891.5335043836495,385.205834781948 "
+                            stroke-width="8.0" stroke="black" latexdraw:rotationAngle="0.12785139785040533"/>
+                    </g>
+                </g>
+            </g>
+            <g latexdraw:type="joinedLines" id="id527480177">
+                <polyline
+                    points="901.4326325217564,237.63243500934416 928.7325789602133,283.4926287387841 930.3852797507592,280.52208406608867 "
+                    stroke-width="8.0" stroke="black" fill="none" latexdraw:rotationAngle="0.12785139785040533"/>
+            </g>
+            <g latexdraw:type="joinedLines" id="id1206854416">
+                <polyline
+                    points="967.624147365147,260.23384840228437 944.0018634107632,222.55407294440457 "
+                    stroke-width="8.0" stroke="black" latexdraw:rotationAngle="0.12785139785040533"/>
+            </g>
+            <g latexdraw:type="joinedLines" id="id1759534899">
+                <polyline
+                    points="1029.3973736047162,333.9514904032136 1054.0134364085702,366.3490984567754 "
+                    stroke-width="8.0" stroke="black" latexdraw:rotationAngle="0.12785139785040533"/>
+            </g>
+            <g latexdraw:type="joinedLines" id="id616788171">
+                <polyline
+                    points="1030.623854113701,404.35545313105507 1001.947076047076,367.155122192477 "
+                    stroke-width="8.0" stroke="black" latexdraw:rotationAngle="0.12785139785040533"/>
+            </g>
+        </g>
+        <g latexdraw:type="drawing" id="id223047860">
+            <g latexdraw:type="arc" id="id1177726589" transform="rotate(540.0140479917841) translate(-2064.931063636794 -415.41903951652364)">
+                <path
+                    d="M 1711.1900683229496 207.8360916236262 A 678.7500000000007 678.7500000000007 0.0 0 0 918.237152502862 -461.2373397112244 "
+                    latexdraw:borderPos="outer" stroke-width="10.0"
+                    stroke="#010101" fill="none" stroke-linecap="round"
+                    stroke-dasharray="1, 15.291666666666668" latexdraw:rotationAngle="9.425023144479304"/>
+            </g>
+            <g latexdraw:type="arc" id="id433586901" transform="rotate(540.0140479917841) translate(-2192.4260208627584 -272.69540681499467)">
+                <path
+                    d="M 1774.9462953134157 136.48209019455322 A 678.7500000000007 678.7500000000007 0.0 0 0 981.9933794933281 -532.5913411402973 "
+                    latexdraw:borderPos="outer" stroke-width="10.0"
+                    stroke="#010101" fill="none" latexdraw:rotationAngle="9.425023144479304"/>
+            </g>
+        </g>
+        <g latexdraw:type="drawing" id="id901711402">
+            <g latexdraw:type="arc" id="id100425530" transform="rotate(805.5356143209277) translate(247.50279732407444 -244.82322035408313)">
+                <path
+                    d="M 687.3401952448551 256.2016757064041 A 678.7500000000007 678.7500000000007 0.0 0 0 -105.61272057523257 -412.8717556284465 "
+                    latexdraw:borderPos="outer" stroke-width="10.0"
+                    stroke="blue" fill="none" stroke-linecap="round"
+                    stroke-dasharray="1, 15.291666666666668" latexdraw:rotationAngle="14.059248711975375"/>
+            </g>
+            <g latexdraw:type="arc" id="id795296796" transform="rotate(805.5356143209277) translate(260.02568374423606 -115.4777792767373)">
+                <path
+                    d="M 611.1598047551463 198.29832429359368 A 678.7500000000007 678.7500000000007 0.0 0 0 -181.79311106494134 -470.77510704125694 "
+                    latexdraw:borderPos="outer" stroke-width="10.0"
+                    stroke="blue" fill="none" latexdraw:rotationAngle="14.059248711975375"/>
+            </g>
+        </g>
+        <g latexdraw:type="drawing" id="id934730958">
+            <g latexdraw:type="arc" id="id169960849" transform="rotate(1079.0460779951736) translate(-20.7177211951781 2.2427514231903842)">
+                <path
+                    d="M 823.8129790838964 1243.2262331159181 A 678.7500000000007 678.7500000000007 0.0 0 0 30.86006326380874 574.1528017810675 "
+                    latexdraw:borderPos="outer" stroke-width="10.0"
+                    stroke="#ff3d00" fill="none" stroke-linecap="round"
+                    stroke-dasharray="1, 15.291666666666668" latexdraw:rotationAngle="18.832906841747313"/>
+            </g>
+            <g latexdraw:type="arc" id="id121617554" transform="rotate(1079.0460779951736) translate(-21.915933763600307 1.1928628751165888)">
+                <path
+                    d="M 761.3536875827721 1315.7182113285273 A 678.7500000000007 678.7500000000007 0.0 0 0 -31.59922823731557 646.6447799936767 "
+                    latexdraw:borderPos="outer" stroke-width="10.0"
+                    stroke="#ff3d00" fill="none" latexdraw:rotationAngle="18.832906841747313"/>
+            </g>
+        </g>
+        <g latexdraw:type="drawing" id="id753804589">
+            <g latexdraw:type="circle" id="id1639419891" transform="rotate(297.57425097696853) translate(-285.3077688406728 32.44657284810887)">
+                <circle cx="169.42813486451237" cy="219.20686801379583"
+                    r="43.594594594594696" latexdraw:borderPos="outer"
+                    stroke-width="2.0" stroke="blue" fill="blue"/>
+            </g>
+            <g latexdraw:type="circle" id="id187704976" transform="rotate(297.57425097696853) translate(-286.07723585341375 32.25775694474771)">
+                <circle cx="169.65706133671313" cy="219.9362244576978"
+                    r="27.648648648648646" latexdraw:borderPos="outer"
+                    stroke-width="2.0" stroke="black" fill="#fefefe"/>
+            </g>
+            <g latexdraw:type="polygon" id="id612068864">
+                <polygon
+                    points="148.62539884274858,130.0134647311301 118.77898169313522,95.76944449703944 92.12998727574649,114.39554683375911 87.41385802892668,118.44123495605851 102.68380785358129,159.82585311931103 119.16183180941283,142.39683752751108 "
+                    stroke-width="8.0" stroke="#0c1cfb" fill="#2016ef" latexdraw:rotationAngle="0.21783007834747103"/>
+            </g>
+            <g latexdraw:type="ellipse" id="id201771508" transform="rotate(334.6000637796686) translate(-73.9130286282995 40.03589597965586)">
+                <ellipse cx="125.7833853527167" cy="143.97146454566493"
+                    rx="28.45945945945944" ry="11.702702702702567"
+                    latexdraw:borderPos="outer" stroke-width="22.0"
+                    stroke="#fdfbfb" fill="#bc5b5b"/>
+                <ellipse cx="125.7833853527167" cy="143.97146454566493"
+                    rx="28.45945945945944" ry="11.702702702702567"
+                    stroke="#0a15ef" stroke-width="6.0" fill="none" latexdraw:type="dbleborders"/>
+            </g>
+            <g latexdraw:type="joinedLines" id="id407475060">
+                <polyline
+                    points="228.42711115460634,117.60564806630339 186.89075390287644,139.53629439692656 "
+                    stroke-width="8.0" stroke="black" latexdraw:rotationAngle="0.21783007834747103"/>
+            </g>
+            <g latexdraw:type="joinedLines" id="id1894615216">
+                <polyline
+                    points="158.84064958826932,106.83779828564286 194.95351332162082,88.09168859504513 "
+                    stroke-width="8.0" stroke="black" latexdraw:rotationAngle="0.21783007834747103"/>
+            </g>
+            <g latexdraw:type="joinedLines" id="id335064112">
+                <polyline
+                    points="75.6891675843022,155.1705331841169 34.54017631562869,172.03879614591557 "
+                    stroke-width="8.0" stroke="#010101" latexdraw:rotationAngle="0.21783007834747103"/>
+            </g>
+            <g latexdraw:type="joinedLines" id="id176667003">
+                <polyline
+                    points="41.982388650693565,216.67644296302706 91.81817757827784,197.57569464235323 89.17207040284431,195.44176109800966 "
+                    stroke-width="8.0" stroke="#010101" fill="none" latexdraw:rotationAngle="0.21783007834747103"/>
+            </g>
+            <g latexdraw:type="joinedLines" id="id1393956966">
+                <polyline
+                    points="212.7345981640048,293.6303970641429 185.89586770583207,251.4112032635585 "
+                    stroke-width="8.0" stroke="black" latexdraw:rotationAngle="0.21783007834747103"/>
+            </g>
+            <g latexdraw:type="circle" id="id205084130" transform="rotate(297.57425097696853) translate(-373.58480061534476 31.004863162971162)">
+                <circle cx="212.3769813109995" cy="292.77212982248597"
+                    r="9.333333333333371" latexdraw:borderPos="outer"
+                    stroke-width="8.0" stroke="black" fill="black"/>
+            </g>
+            <g latexdraw:type="ellipse" id="id1448794948" transform="rotate(318.2886176863034) translate(-97.28120131130768 41.85763478099793)">
+                <ellipse cx="103.57519233941014" cy="106.7444995683476"
+                    rx="19.269230769230766" ry="8.115384615384642"
+                    latexdraw:borderPos="outer" stroke-width="8.0"
+                    stroke="#0101f6" fill="#0007ff"/>
+            </g>
+            <g latexdraw:type="polygon" id="id77699850">
+                <polygon
+                    points="129.08606705884318,73.6518684418603 221.0329822668715,180.0012488851422 268.22150501487886,151.81365998549347 162.29870305191045,58.527480709965374 162.29870305191045,58.527480709965374 "
+                    stroke-width="8.0" stroke="#1c10fa"
+                    fill="url(#pattern77699850)" latexdraw:rotationAngle="0.21783007834747103"/>
+            </g>
+            <g latexdraw:type="polygon" id="id594120716">
+                <polygon
+                    points="61.565250593815506,118.15706901609076 108.37982380695266,235.0571270804171 49.32922981359022,255.39921886636586 24.706066404418287,129.72623122094853 26.26748119296245,127.79005523892425 "
+                    stroke-width="8.0" stroke="#2017f6"
+                    fill="url(#pattern594120716)" latexdraw:rotationAngle="0.21783007834747103"/>
+            </g>
+            <g latexdraw:type="joinedLines" id="id2637648">
+                <polyline
+                    points="169.06846233023714,121.56501644201407 80.40311601299088,165.81713662322394 "
+                    stroke-width="8.0" stroke="black" latexdraw:rotationAngle="0.21783007834747103"/>
+            </g>
+            <g latexdraw:type="joinedLines" id="id804666935">
+                <polyline
+                    points="143.03864646698833,127.25681690374128 103.733305372918,148.80768816013767 103.91965481781732,151.9540404079466 "
+                    stroke-width="8.0" stroke="blue" fill="none" latexdraw:rotationAngle="0.21783007834747103"/>
+            </g>
+            <g latexdraw:type="polygon" id="id1351628280">
+                <polygon
+                    points="100.71837242720893,153.969269147083 131.00577947656495,232.5959926709184 135.46707219458,226.38844222990252 136.8298368700426,203.92741206448906 149.52693560748668,183.11669140973467 171.34376338360013,179.8743909495838 192.76135657830886,185.57071726115814 149.50534729200712,129.4423537520818 137.771778648621,136.73067101314817 "
+                    stroke-width="8.0" stroke="blue" fill="blue" latexdraw:rotationAngle="0.21783007834747103"/>
+            </g>
+            <g latexdraw:type="circle" id="id1791439742" transform="rotate(297.57425097696853) translate(-278.7744009320224 32.41816604952044)">
+                <circle cx="166.13801019910545" cy="213.82986940697913"
+                    r="19.0" latexdraw:borderPos="outer"
+                    stroke-width="2.0" stroke="black" fill="black"/>
+            </g>
+        </g>
+        <g latexdraw:type="drawing" id="id1965745223">
+            <g latexdraw:type="joinedLines" id="id1121604764">
+                <polyline
+                    points="134.862073824817,1230.0059312886056 199.03280480452338,1305.5169309086587 "
+                    stroke-width="8.0" stroke="black" latexdraw:rotationAngle="0.0"/>
+            </g>
+            <g latexdraw:type="polygon" id="id1051788184">
+                <polygon
+                    points="147.7245891194625,1252.0647165350588 121.61120997224896,1289.2339641461608 146.06947739239592,1310.6557695444126 151.12555479972093,1314.2676317658654 187.6580245559993,1289.5444312919728 166.79428855832862,1277.7122557435937 "
+                    stroke-width="8.0" stroke="#ff3c00" fill="#ff3c00" latexdraw:rotationAngle="0.0"/>
+            </g>
+            <g latexdraw:type="ellipse" id="id383918595" transform="rotate(230.76492008657618) translate(-1253.6919528475655 -1938.5279086942915)">
+                <ellipse cx="166.96918193963512" cy="1266.6771790731414"
+                    rx="28.459459459459424" ry="11.702702702702595"
+                    latexdraw:borderPos="outer" stroke-width="22.0"
+                    stroke="#fdfbfb" fill="#ff3c00"/>
+                <ellipse cx="166.96918193963512" cy="1266.6771790731414"
+                    rx="28.459459459459424" ry="11.702702702702595"
+                    stroke="#ff3c00" stroke-width="6.0" fill="none" latexdraw:type="dbleborders"/>
+            </g>
+            <g latexdraw:type="polygon" id="id2075430414">
+                <polygon
+                    points="177.52699352368552,1292.7758772756704 246.62998201969083,1244.565238835716 239.53570152802718,1241.7177839196254 217.4004388855218,1245.765641550472 194.15723774216872,1238.4133622353033 185.79196563023163,1218.004817236217 186.20145954642317,1195.8464385402344 142.04527378371267,1251.2694192294093 151.927978312689,1260.9197224785287 "
+                    stroke-width="8.0" stroke="#ff3c00" fill="#ff3c00" latexdraw:rotationAngle="0.0"/>
+            </g>
+            <g latexdraw:type="circle" id="id515717669" transform="rotate(193.73910728387622) translate(-739.1007088827415 -2323.5728375954814)">
+                <circle cx="229.58511105980995" cy="1206.3076874786525"
+                    r="43.59459459459458" latexdraw:borderPos="outer"
+                    stroke-width="2.0" stroke="#ff9100" fill="#ff3c00"/>
+            </g>
+            <g latexdraw:type="circle" id="id791834562" transform="rotate(193.73910728387622) translate(-740.2947026460687 -2322.6356019105724)">
+                <circle cx="230.23856428259683" cy="1205.9109923342844"
+                    r="27.648648648648646" latexdraw:borderPos="outer"
+                    stroke-width="2.0" stroke="#ff3c00" fill="#fefefe"/>
+            </g>
+            <g latexdraw:type="joinedLines" id="id1853698721">
+                <polyline
+                    points="116.82319638166325,1173.3162083330271 148.05013704588612,1208.4032486609785 "
+                    stroke-width="8.0" stroke="black" latexdraw:rotationAngle="0.0"/>
+            </g>
+            <g latexdraw:type="joinedLines" id="id1292836173">
+                <polyline
+                    points="123.00789231047838,1243.458718685098 96.17001284909168,1212.876309009409 "
+                    stroke-width="8.0" stroke="black" latexdraw:rotationAngle="0.0"/>
+            </g>
+            <g latexdraw:type="joinedLines" id="id554715959">
+                <polyline
+                    points="189.82232504247372,1312.640029751916 216.0411228100695,1348.5615055205933 "
+                    stroke-width="8.0" stroke="black" latexdraw:rotationAngle="0.0"/>
+            </g>
+            <g latexdraw:type="joinedLines" id="id48646942">
+                <polyline
+                    points="257.6577430885361,1330.7292123369896 227.19396336681734,1286.906814302297 225.7547011319458,1289.9864376193323 "
+                    stroke-width="8.0" stroke="black" fill="none" latexdraw:rotationAngle="0.0"/>
+            </g>
+            <g latexdraw:type="joinedLines" id="id1651742056">
+                <polyline
+                    points="291.4936141064122,1146.460810447791 256.9172134726473,1182.6167269344626 "
+                    stroke-width="8.0" stroke="black" latexdraw:rotationAngle="0.0"/>
+            </g>
+            <g latexdraw:type="circle" id="id1626640858" transform="rotate(193.73910728387622) translate(-845.5895468368957 -2192.1548866940448)">
+                <circle cx="290.74576368577937" cy="1147.013288700769"
+                    r="9.333333333333371" latexdraw:borderPos="outer"
+                    stroke-width="8.0" stroke="black" fill="black"/>
+            </g>
+            <g latexdraw:type="ellipse" id="id105938594" transform="rotate(214.45347399321105) translate(-982.227761840001 -2289.733595064865)">
+                <ellipse cx="136.13287836345086" cy="1297.1431131651084"
+                    rx="19.269230769230774" ry="8.115384615384642"
+                    latexdraw:borderPos="outer" stroke-width="8.0"
+                    stroke="#ff3c00" fill="#ff3c00"/>
+            </g>
+            <g latexdraw:type="polygon" id="id1842423840">
+                <polygon
+                    points="95.16475938409769,1281.2625711265152 176.4415276961439,1166.5520098442503 137.78757507487364,1127.4730027705361 72.5370565056952,1252.6301881254549 72.5370565056952,1252.6301881254549 "
+                    stroke-width="8.0" stroke="#ff3c00"
+                    fill="url(#pattern1842423840)" latexdraw:rotationAngle="0.0"/>
+            </g>
+            <g latexdraw:type="polygon" id="id1803944662">
+                <polygon
+                    points="158.5680779860387,1336.8206997486009 260.8818808510573,1263.4101175150481 294.75451777844717,1315.8831374089148 178.61569601359577,1369.8439943245726 176.36231309869174,1368.7908756161296 "
+                    stroke-width="8.0" stroke="#ff3c00"
+                    fill="url(#pattern1803944662)" latexdraw:rotationAngle="0.0"/>
+            </g>
+            <g latexdraw:type="joinedLines" id="id1179554030">
+                <polyline
+                    points="145.63891576160142,1253.801513142275 175.96359862479437,1286.8130792923039 178.97410666031055,1285.8797519376203 "
+                    stroke-width="8.0" stroke="#ff3c00" fill="none" latexdraw:rotationAngle="0.0"/>
+            </g>
+            <g latexdraw:type="circle" id="id1681007906" transform="rotate(193.73910728387622) translate(-731.4232301459366 -2333.4587106014014)">
+                <circle cx="225.1508755662485" cy="1210.7881550791674"
+                    r="19.0" latexdraw:borderPos="outer"
+                    stroke-width="2.0" stroke="black" fill="#ff3c00"/>
+            </g>
+        </g>
+        <g latexdraw:type="circle" id="id1235779783">
+            <circle cx="537.5" cy="686.5" r="26.5"
+                latexdraw:borderPos="outer" stroke-width="10.0"
+                stroke="#0ffc0d" fill="#08e918"/>
+        </g>
+        <g latexdraw:type="joinedLines" id="id1127483663">
+            <polyline
+                points="294.70175894391815,1139.726690042073 616.7922764324715,899.7229191722427 "
+                stroke-width="5.0" stroke="#ff3c00"
+                latexdraw:rotationAngle="-0.40249895673733627" marker-end="url(#arrow1-1127483663)"/>
+        </g>
+        <g latexdraw:type="joinedLines" id="id796362856">
+            <polyline
+                points="854.3462810080781,427.8493925129792 670.5801259183268,666.8995252359405 "
+                stroke-width="5.0" stroke="#010101"
+                latexdraw:rotationAngle="3.136245018734085" marker-end="url(#arrow1-796362856)"/>
+        </g>
+        <g latexdraw:type="joinedLines" id="id2050688437">
+            <polyline
+                points="216.9406378306651,303.61868778934644 323.96845307842796,743.8358576652026 "
+                stroke-width="5.0" stroke="blue"
+                latexdraw:rotationAngle="7.685608528045933" marker-end="url(#arrow1-2050688437)"/>
+        </g>
+        <g latexdraw:type="text" id="id194332546" fill="#ff3c00" latexdraw:position="bl">
+            <text x="690.2571519983287" y="771.8642657995607">\Huge $c\cdot \tau_{r}$</text>
+        </g>
+        <g latexdraw:type="joinedLines" id="id952496832">
+            <polyline
+                points="837.827231591938,731.0053475935839 688.5355820649958,839.9465240641712 "
+                stroke-width="5.0" stroke="#ff3c00"
+                latexdraw:rotationAngle="0.0" marker-end="url(#arrow1-952496832)"/>
+        </g>
+        <g latexdraw:type="text" id="id931389059" fill="#ff3c00" latexdraw:position="bl">
+            <text x="447.67397047397094" y="1086.3149915444042">\Huge $\rho_{3}$</text>
+        </g>
+        <g latexdraw:type="text" id="id1001477055" fill="#1a1af8" latexdraw:position="bl">
+            <text x="406.0695748695755" y="908.6705183705195">\Huge $c\cdot \tau_{r}$</text>
+        </g>
+        <g latexdraw:type="joinedLines" id="id60581671">
+            <polyline
+                points="384.9406378306653,953.6186877893472 355.9684530784284,837.8358576652028 "
+                stroke-width="5.0" stroke="blue"
+                latexdraw:rotationAngle="7.685608528045933" marker-end="url(#arrow1-60581671)"/>
+        </g>
+        <g latexdraw:type="text" id="id41476844" fill="#010101" latexdraw:position="bl">
+            <text x="562.0814796314801" y="822.0958430458445">\Huge $c\cdot \tau_{r}$</text>
+        </g>
+        <g latexdraw:type="joinedLines" id="id365810644">
+            <polyline
+                points="491.48913815093596,854.472769136357 618.1645415027435,745.8086161450304 "
+                stroke-width="5.0" stroke="#010101"
+                latexdraw:rotationAngle="3.136245018734085" marker-end="url(#arrow1-365810644)"/>
+        </g>
+        <g latexdraw:type="text" id="id498633666" fill="#ff3c00" latexdraw:position="bl">
+            <text x="700.2571519983287" y="781.8642657995607">\Huge $c\cdot \tau_{r}$</text>
+        </g>
+        <g latexdraw:type="text" id="id2081804192" fill="#010101" latexdraw:position="bl">
+            <text x="787.7957653457654" y="577.8101287601298">\Huge $\rho_{3}$</text>
+        </g>
+        <g latexdraw:type="text" id="id1552747024" fill="#1a1af8" latexdraw:position="bl">
+            <text x="277.4981462981466" y="484.38480408480484">\Huge $\rho_{3}$</text>
+        </g>
+    </g>
+    <defs>
+        <pattern latexdraw:type="crosshatch"
+            latexdraw:rotationAngle="0.0"
+            latexdraw:size="7.055555555555555"
+            patternUnits="userSpaceOnUse" id="pattern238790102" x="0"
+            y="0" width="1002" height="306">
+            <g stroke="black" stroke-width="1.4111111111111112" stroke-dasharray="none">
+                <path d="M 865.1888775854508 206.3103296280537 L 865.1888775854508 306.6824341529473 M 873.6555442521175 206.3103296280537 L 873.6555442521175 306.6824341529473 M 882.1222109187842 206.3103296280537 L 882.1222109187842 306.6824341529473 M 890.5888775854509 206.3103296280537 L 890.5888775854509 306.6824341529473 M 899.0555442521176 206.3103296280537 L 899.0555442521176 306.6824341529473 M 907.5222109187843 206.3103296280537 L 907.5222109187843 306.6824341529473 M 915.988877585451 206.3103296280537 L 915.988877585451 306.6824341529473 M 924.4555442521176 206.3103296280537 L 924.4555442521176 306.6824341529473 M 932.9222109187843 206.3103296280537 L 932.9222109187843 306.6824341529473 M 941.388877585451 206.3103296280537 L 941.388877585451 306.6824341529473 M 949.8555442521177 206.3103296280537 L 949.8555442521177 306.6824341529473 M 958.3222109187844 206.3103296280537 L 958.3222109187844 306.6824341529473 M 966.7888775854511 206.3103296280537 L 966.7888775854511 306.6824341529473 M 975.2555442521178 206.3103296280537 L 975.2555442521178 306.6824341529473 M 983.7222109187845 206.3103296280537 L 983.7222109187845 306.6824341529473 M 992.1888775854512 206.3103296280537 L 992.1888775854512 306.6824341529473 M 1000.6555442521179 206.3103296280537 L 1000.6555442521179 306.6824341529473 M 865.1888775854508 206.3103296280537 L 1002.5121976542524 206.3103296280537 M 865.1888775854508 214.77699629472036 L 1002.5121976542524 214.77699629472036 M 865.1888775854508 223.24366296138703 L 1002.5121976542524 223.24366296138703 M 865.1888775854508 231.7103296280537 L 1002.5121976542524 231.7103296280537 M 865.1888775854508 240.17699629472037 L 1002.5121976542524 240.17699629472037 M 865.1888775854508 248.64366296138704 L 1002.5121976542524 248.64366296138704 M 865.1888775854508 257.1103296280537 L 1002.5121976542524 257.1103296280537 M 865.1888775854508 265.57699629472035 L 1002.5121976542524 265.57699629472035 M 865.1888775854508 274.043662961387 L 1002.5121976542524 274.043662961387 M 865.1888775854508 282.5103296280536 L 1002.5121976542524 282.5103296280536 M 865.1888775854508 290.97699629472027 L 1002.5121976542524 290.97699629472027 M 865.1888775854508 299.4436629613869 L 1002.5121976542524 299.4436629613869 "/>
+            </g>
+        </pattern>
+        <pattern latexdraw:type="crosshatch"
+            latexdraw:rotationAngle="0.0"
+            latexdraw:size="7.055555555555555"
+            patternUnits="userSpaceOnUse" id="pattern1805982362" x="0"
+            y="0" width="1077" height="450">
+            <g stroke="black" stroke-width="1.4111111111111112" stroke-dasharray="none">
+                <path d="M 967.4070126491494 299.8221273489431 L 967.4070126491494 450.2258076181744 M 975.873679315816 299.8221273489431 L 975.873679315816 450.2258076181744 M 984.3403459824827 299.8221273489431 L 984.3403459824827 450.2258076181744 M 992.8070126491494 299.8221273489431 L 992.8070126491494 450.2258076181744 M 1001.2736793158161 299.8221273489431 L 1001.2736793158161 450.2258076181744 M 1009.7403459824828 299.8221273489431 L 1009.7403459824828 450.2258076181744 M 1018.2070126491495 299.8221273489431 L 1018.2070126491495 450.2258076181744 M 1026.6736793158161 299.8221273489431 L 1026.6736793158161 450.2258076181744 M 1035.1403459824828 299.8221273489431 L 1035.1403459824828 450.2258076181744 M 1043.6070126491495 299.8221273489431 L 1043.6070126491495 450.2258076181744 M 1052.0736793158162 299.8221273489431 L 1052.0736793158162 450.2258076181744 M 1060.540345982483 299.8221273489431 L 1060.540345982483 450.2258076181744 M 1069.0070126491496 299.8221273489431 L 1069.0070126491496 450.2258076181744 M 967.4070126491494 299.8221273489431 L 1077.1189810989233 299.8221273489431 M 967.4070126491494 308.28879401560977 L 1077.1189810989233 308.28879401560977 M 967.4070126491494 316.7554606822764 L 1077.1189810989233 316.7554606822764 M 967.4070126491494 325.22212734894305 L 1077.1189810989233 325.22212734894305 M 967.4070126491494 333.6887940156097 L 1077.1189810989233 333.6887940156097 M 967.4070126491494 342.1554606822763 L 1077.1189810989233 342.1554606822763 M 967.4070126491494 350.62212734894297 L 1077.1189810989233 350.62212734894297 M 967.4070126491494 359.0887940156096 L 1077.1189810989233 359.0887940156096 M 967.4070126491494 367.55546068227625 L 1077.1189810989233 367.55546068227625 M 967.4070126491494 376.0221273489429 L 1077.1189810989233 376.0221273489429 M 967.4070126491494 384.4887940156095 L 1077.1189810989233 384.4887940156095 M 967.4070126491494 392.95546068227617 L 1077.1189810989233 392.95546068227617 M 967.4070126491494 401.4221273489428 L 1077.1189810989233 401.4221273489428 M 967.4070126491494 409.88879401560945 L 1077.1189810989233 409.88879401560945 M 967.4070126491494 418.3554606822761 L 1077.1189810989233 418.3554606822761 M 967.4070126491494 426.82212734894273 L 1077.1189810989233 426.82212734894273 M 967.4070126491494 435.28879401560937 L 1077.1189810989233 435.28879401560937 M 967.4070126491494 443.755460682276 L 1077.1189810989233 443.755460682276 "/>
+            </g>
+        </pattern>
+        <pattern latexdraw:type="crosshatch"
+            latexdraw:rotationAngle="0.0"
+            latexdraw:size="7.055555555555555"
+            patternUnits="userSpaceOnUse" id="pattern77699850" x="0"
+            y="0" width="268" height="180">
+            <g stroke="black" stroke-width="1.4111111111111112" stroke-dasharray="none">
+                <path d="M 129.08606705884318 58.527480709965374 L 129.08606705884318 180.0012488851422 M 137.55273372550985 58.527480709965374 L 137.55273372550985 180.0012488851422 M 146.01940039217652 58.527480709965374 L 146.01940039217652 180.0012488851422 M 154.4860670588432 58.527480709965374 L 154.4860670588432 180.0012488851422 M 162.95273372550986 58.527480709965374 L 162.95273372550986 180.0012488851422 M 171.41940039217653 58.527480709965374 L 171.41940039217653 180.0012488851422 M 179.8860670588432 58.527480709965374 L 179.8860670588432 180.0012488851422 M 188.35273372550986 58.527480709965374 L 188.35273372550986 180.0012488851422 M 196.81940039217653 58.527480709965374 L 196.81940039217653 180.0012488851422 M 205.2860670588432 58.527480709965374 L 205.2860670588432 180.0012488851422 M 213.75273372550987 58.527480709965374 L 213.75273372550987 180.0012488851422 M 222.21940039217654 58.527480709965374 L 222.21940039217654 180.0012488851422 M 230.6860670588432 58.527480709965374 L 230.6860670588432 180.0012488851422 M 239.15273372550988 58.527480709965374 L 239.15273372550988 180.0012488851422 M 247.61940039217654 58.527480709965374 L 247.61940039217654 180.0012488851422 M 256.0860670588432 58.527480709965374 L 256.0860670588432 180.0012488851422 M 264.5527337255098 58.527480709965374 L 264.5527337255098 180.0012488851422 M 129.08606705884318 58.527480709965374 L 268.22150501487886 58.527480709965374 M 129.08606705884318 66.99414737663204 L 268.22150501487886 66.99414737663204 M 129.08606705884318 75.46081404329871 L 268.22150501487886 75.46081404329871 M 129.08606705884318 83.92748070996538 L 268.22150501487886 83.92748070996538 M 129.08606705884318 92.39414737663205 L 268.22150501487886 92.39414737663205 M 129.08606705884318 100.86081404329872 L 268.22150501487886 100.86081404329872 M 129.08606705884318 109.32748070996539 L 268.22150501487886 109.32748070996539 M 129.08606705884318 117.79414737663205 L 268.22150501487886 117.79414737663205 M 129.08606705884318 126.26081404329872 L 268.22150501487886 126.26081404329872 M 129.08606705884318 134.7274807099654 L 268.22150501487886 134.7274807099654 M 129.08606705884318 143.19414737663206 L 268.22150501487886 143.19414737663206 M 129.08606705884318 151.66081404329873 L 268.22150501487886 151.66081404329873 M 129.08606705884318 160.1274807099654 L 268.22150501487886 160.1274807099654 M 129.08606705884318 168.59414737663207 L 268.22150501487886 168.59414737663207 M 129.08606705884318 177.06081404329873 L 268.22150501487886 177.06081404329873 "/>
+            </g>
+        </pattern>
+        <pattern latexdraw:type="crosshatch"
+            latexdraw:rotationAngle="0.0"
+            latexdraw:size="7.055555555555555"
+            patternUnits="userSpaceOnUse" id="pattern594120716" x="0"
+            y="0" width="108" height="255">
+            <g stroke="black" stroke-width="1.4111111111111112" stroke-dasharray="none">
+                <path d="M 24.706066404418287 118.15706901609076 L 24.706066404418287 255.39921886636586 M 33.172733071084956 118.15706901609076 L 33.172733071084956 255.39921886636586 M 41.639399737751624 118.15706901609076 L 41.639399737751624 255.39921886636586 M 50.10606640441829 118.15706901609076 L 50.10606640441829 255.39921886636586 M 58.57273307108496 118.15706901609076 L 58.57273307108496 255.39921886636586 M 67.03939973775162 118.15706901609076 L 67.03939973775162 255.39921886636586 M 75.50606640441829 118.15706901609076 L 75.50606640441829 255.39921886636586 M 83.97273307108496 118.15706901609076 L 83.97273307108496 255.39921886636586 M 92.43939973775163 118.15706901609076 L 92.43939973775163 255.39921886636586 M 100.9060664044183 118.15706901609076 L 100.9060664044183 255.39921886636586 M 24.706066404418287 118.15706901609076 L 108.37982380695266 118.15706901609076 M 24.706066404418287 126.62373568275743 L 108.37982380695266 126.62373568275743 M 24.706066404418287 135.0904023494241 L 108.37982380695266 135.0904023494241 M 24.706066404418287 143.55706901609076 L 108.37982380695266 143.55706901609076 M 24.706066404418287 152.02373568275743 L 108.37982380695266 152.02373568275743 M 24.706066404418287 160.4904023494241 L 108.37982380695266 160.4904023494241 M 24.706066404418287 168.95706901609077 L 108.37982380695266 168.95706901609077 M 24.706066404418287 177.42373568275744 L 108.37982380695266 177.42373568275744 M 24.706066404418287 185.8904023494241 L 108.37982380695266 185.8904023494241 M 24.706066404418287 194.35706901609078 L 108.37982380695266 194.35706901609078 M 24.706066404418287 202.82373568275744 L 108.37982380695266 202.82373568275744 M 24.706066404418287 211.2904023494241 L 108.37982380695266 211.2904023494241 M 24.706066404418287 219.75706901609078 L 108.37982380695266 219.75706901609078 M 24.706066404418287 228.22373568275745 L 108.37982380695266 228.22373568275745 M 24.706066404418287 236.69040234942412 L 108.37982380695266 236.69040234942412 M 24.706066404418287 245.1570690160908 L 108.37982380695266 245.1570690160908 M 24.706066404418287 253.62373568275746 L 108.37982380695266 253.62373568275746 "/>
+            </g>
+        </pattern>
+        <pattern latexdraw:type="crosshatch"
+            latexdraw:rotationAngle="0.0"
+            latexdraw:size="7.055555555555555"
+            patternUnits="userSpaceOnUse" id="pattern1842423840" x="0"
+            y="0" width="176" height="1281">
+            <g stroke="black" stroke-width="1.4111111111111112" stroke-dasharray="none">
+                <path d="M 72.5370565056952 1127.4730027705361 L 72.5370565056952 1281.2625711265152 M 81.00372317236187 1127.4730027705361 L 81.00372317236187 1281.2625711265152 M 89.47038983902854 1127.4730027705361 L 89.47038983902854 1281.2625711265152 M 97.93705650569521 1127.4730027705361 L 97.93705650569521 1281.2625711265152 M 106.40372317236188 1127.4730027705361 L 106.40372317236188 1281.2625711265152 M 114.87038983902855 1127.4730027705361 L 114.87038983902855 1281.2625711265152 M 123.33705650569522 1127.4730027705361 L 123.33705650569522 1281.2625711265152 M 131.80372317236188 1127.4730027705361 L 131.80372317236188 1281.2625711265152 M 140.27038983902855 1127.4730027705361 L 140.27038983902855 1281.2625711265152 M 148.73705650569522 1127.4730027705361 L 148.73705650569522 1281.2625711265152 M 157.2037231723619 1127.4730027705361 L 157.2037231723619 1281.2625711265152 M 165.67038983902856 1127.4730027705361 L 165.67038983902856 1281.2625711265152 M 174.13705650569523 1127.4730027705361 L 174.13705650569523 1281.2625711265152 M 72.5370565056952 1127.4730027705361 L 176.4415276961439 1127.4730027705361 M 72.5370565056952 1135.9396694372028 L 176.4415276961439 1135.9396694372028 M 72.5370565056952 1144.4063361038695 L 176.4415276961439 1144.4063361038695 M 72.5370565056952 1152.8730027705362 L 176.4415276961439 1152.8730027705362 M 72.5370565056952 1161.339669437203 L 176.4415276961439 1161.339669437203 M 72.5370565056952 1169.8063361038696 L 176.4415276961439 1169.8063361038696 M 72.5370565056952 1178.2730027705363 L 176.4415276961439 1178.2730027705363 M 72.5370565056952 1186.739669437203 L 176.4415276961439 1186.739669437203 M 72.5370565056952 1195.2063361038697 L 176.4415276961439 1195.2063361038697 M 72.5370565056952 1203.6730027705364 L 176.4415276961439 1203.6730027705364 M 72.5370565056952 1212.139669437203 L 176.4415276961439 1212.139669437203 M 72.5370565056952 1220.6063361038698 L 176.4415276961439 1220.6063361038698 M 72.5370565056952 1229.0730027705365 L 176.4415276961439 1229.0730027705365 M 72.5370565056952 1237.5396694372032 L 176.4415276961439 1237.5396694372032 M 72.5370565056952 1246.00633610387 L 176.4415276961439 1246.00633610387 M 72.5370565056952 1254.4730027705366 L 176.4415276961439 1254.4730027705366 M 72.5370565056952 1262.9396694372033 L 176.4415276961439 1262.9396694372033 M 72.5370565056952 1271.40633610387 L 176.4415276961439 1271.40633610387 M 72.5370565056952 1279.8730027705367 L 176.4415276961439 1279.8730027705367 "/>
+            </g>
+        </pattern>
+        <pattern latexdraw:type="crosshatch"
+            latexdraw:rotationAngle="0.0"
+            latexdraw:size="7.055555555555555"
+            patternUnits="userSpaceOnUse" id="pattern1803944662" x="0"
+            y="0" width="294" height="1369">
+            <g stroke="black" stroke-width="1.4111111111111112" stroke-dasharray="none">
+                <path d="M 158.5680779860387 1263.4101175150481 L 158.5680779860387 1369.8439943245726 M 167.03474465270537 1263.4101175150481 L 167.03474465270537 1369.8439943245726 M 175.50141131937204 1263.4101175150481 L 175.50141131937204 1369.8439943245726 M 183.9680779860387 1263.4101175150481 L 183.9680779860387 1369.8439943245726 M 192.43474465270538 1263.4101175150481 L 192.43474465270538 1369.8439943245726 M 200.90141131937204 1263.4101175150481 L 200.90141131937204 1369.8439943245726 M 209.3680779860387 1263.4101175150481 L 209.3680779860387 1369.8439943245726 M 217.83474465270538 1263.4101175150481 L 217.83474465270538 1369.8439943245726 M 226.30141131937205 1263.4101175150481 L 226.30141131937205 1369.8439943245726 M 234.76807798603872 1263.4101175150481 L 234.76807798603872 1369.8439943245726 M 243.2347446527054 1263.4101175150481 L 243.2347446527054 1369.8439943245726 M 251.70141131937206 1263.4101175150481 L 251.70141131937206 1369.8439943245726 M 260.1680779860387 1263.4101175150481 L 260.1680779860387 1369.8439943245726 M 268.63474465270536 1263.4101175150481 L 268.63474465270536 1369.8439943245726 M 277.101411319372 1263.4101175150481 L 277.101411319372 1369.8439943245726 M 285.56807798603865 1263.4101175150481 L 285.56807798603865 1369.8439943245726 M 294.0347446527053 1263.4101175150481 L 294.0347446527053 1369.8439943245726 M 158.5680779860387 1263.4101175150481 L 294.75451777844717 1263.4101175150481 M 158.5680779860387 1271.8767841817148 L 294.75451777844717 1271.8767841817148 M 158.5680779860387 1280.3434508483815 L 294.75451777844717 1280.3434508483815 M 158.5680779860387 1288.8101175150482 L 294.75451777844717 1288.8101175150482 M 158.5680779860387 1297.276784181715 L 294.75451777844717 1297.276784181715 M 158.5680779860387 1305.7434508483816 L 294.75451777844717 1305.7434508483816 M 158.5680779860387 1314.2101175150483 L 294.75451777844717 1314.2101175150483 M 158.5680779860387 1322.676784181715 L 294.75451777844717 1322.676784181715 M 158.5680779860387 1331.1434508483817 L 294.75451777844717 1331.1434508483817 M 158.5680779860387 1339.6101175150484 L 294.75451777844717 1339.6101175150484 M 158.5680779860387 1348.076784181715 L 294.75451777844717 1348.076784181715 M 158.5680779860387 1356.5434508483818 L 294.75451777844717 1356.5434508483818 M 158.5680779860387 1365.0101175150485 L 294.75451777844717 1365.0101175150485 "/>
+            </g>
+        </pattern>
+        <marker overflow="visible" orient="auto" id="arrow1-1127483663">
+            <path
+                d="M 0.0 0.0 L -5.809758333333334 1.9495833333333334 L -4.647806666666667 0.0 L -5.809758333333334 -1.9495833333333334 z "
+                latexdraw:arrSizeNum="3.37" fill="#ff3c00"/>
+        </marker>
+        <marker overflow="visible" orient="auto" id="arrow1-796362856">
+            <path
+                d="M 0.0 0.0 L -5.809758333333334 1.9495833333333334 L -4.647806666666667 0.0 L -5.809758333333334 -1.9495833333333334 z "
+                latexdraw:arrSizeNum="3.37" fill="#010101"/>
+        </marker>
+        <marker overflow="visible" orient="auto" id="arrow1-2050688437">
+            <path
+                d="M 0.0 0.0 L -5.809758333333334 1.9495833333333334 L -4.647806666666667 0.0 L -5.809758333333334 -1.9495833333333334 z "
+                latexdraw:arrSizeNum="3.37" fill="blue"/>
+        </marker>
+        <marker overflow="visible" orient="auto" id="arrow1-952496832">
+            <path
+                d="M 0.0 0.0 L -5.809758333333334 1.9495833333333334 L -4.647806666666667 0.0 L -5.809758333333334 -1.9495833333333334 z "
+                latexdraw:arrSizeNum="3.37" fill="#ff3c00"/>
+        </marker>
+        <marker overflow="visible" orient="auto" id="arrow1-60581671">
+            <path
+                d="M 0.0 0.0 L -5.809758333333334 1.9495833333333334 L -4.647806666666667 0.0 L -5.809758333333334 -1.9495833333333334 z "
+                latexdraw:arrSizeNum="3.37" fill="blue"/>
+        </marker>
+        <marker overflow="visible" orient="auto" id="arrow1-365810644">
+            <path
+                d="M 0.0 0.0 L -5.809758333333334 1.9495833333333334 L -4.647806666666667 0.0 L -5.809758333333334 -1.9495833333333334 z "
+                latexdraw:arrSizeNum="3.37" fill="#010101"/>
+        </marker>
+    </defs>
+    <metadata>
+        <latexdraw:metadata>
+            <latexdraw:latexIncludes/>
+            <latexdraw:displayXScale>true</latexdraw:displayXScale>
+            <latexdraw:displayYScale>true</latexdraw:displayYScale>
+            <latexdraw:unit>CM</latexdraw:unit>
+            <latexdraw:zoom>0.3999999999999994</latexdraw:zoom>
+            <latexdraw:magneticGridStyle>STANDARD</latexdraw:magneticGridStyle>
+            <latexdraw:gridGap>20</latexdraw:gridGap>
+            <latexdraw:magneticGrid>false</latexdraw:magneticGrid>
+            <latexdraw:version>3.3.2</latexdraw:version>
+            <latexdraw:size>
+                <latexdraw:width>1440</latexdraw:width>
+                <latexdraw:height>875</latexdraw:height>
+            </latexdraw:size>
+            <latexdraw:position>
+                <latexdraw:x>0.0</latexdraw:x>
+                <latexdraw:y>25.0</latexdraw:y>
+            </latexdraw:position>
+        </latexdraw:metadata>
+    </metadata>
+</svg>
